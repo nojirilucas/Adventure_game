@@ -15,4 +15,3 @@ Jogo em java de labirintos
 ![tree](https://github.com/nojirilucas/Adventure_game/assets/103136574/00fd0e16-db9f-4804-a452-98ede47504a2)
 ![wall](https://github.com/nojirilucas/Adventure_game/assets/103136574/fa32d308-859a-49b2-8789-705cec7bb006)
 ![water](https://github.com/nojirilucas/Adventure_game/assets/103136574/2ec5f07d-590e-472b-bf19-41310d526c98)
-s/Adventure_game/assets/103136574/ea86bfa4-dd4e-456b-9a69-07f308156af1)
